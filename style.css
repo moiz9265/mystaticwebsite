@@ -1,0 +1,164 @@
+body
+{
+    margin: 0;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    /*background-color: #BBBBBF;*/
+    height: 800px;
+    overflow-x: hidden;
+}
+/* ul li{
+    display: inline-block;
+    padding-left: 25px;
+    font-weight: 600; 
+  } */
+
+
+  /* .navbar a {
+    float: left;
+    display: block;
+   text-align: center;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size: 16px;
+   
+  } */
+  /* #navbarSupportedContent
+  {
+    padding-left: 500px;
+    
+  } */
+  .navbar a:hover {
+    padding-top: 12px;
+    /* background-color: #0663BB; */
+    border-radius: 25px;
+    color: white;
+    transition-duration: 0.8s;
+     }
+.nav-link
+{
+  color: white;
+}
+   
+  .activee {
+   
+    background-color: #3D4FD6;
+    border-radius: 25px;
+    padding: 0px 12px 0px 12px;
+    color: white;
+    text-decoration: none;
+  
+  }
+  .footer
+{
+    background-color: #232425;
+    width: 110%;
+    padding: 4em;
+    display: flex;
+    /* line-height: 40px; */
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  
+}
+.fa-facebook-square
+{
+    text-decoration: none;
+    color: white;
+}
+.fa-twitter-square
+{
+    text-decoration: none;
+    color: white;
+    /* background-color: blue; */
+}
+.fa-youtube-square
+{
+    color: white;
+}
+.fa { 
+    padding: 0px;
+    margin: 0px;
+    font-size: 35px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    /* margin: 5px 2px; */
+  }
+ #sectionone
+ {
+   margin-top: 20px;
+   text-align: center;
+   font-weight: 600;
+   /* line-height: 7px; */
+ }     
+#sectiontwo
+{
+  background-color: #3D4FD6;
+  width: 100%;
+  padding: 2em;
+  display: flex;
+  line-height: 50px;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+#counterone,#countertwo,#counterthree,#counterfour
+{
+  /* border: 2px solid white; */
+  color: white;
+  font-size: 70px;
+  size: 20px;
+  /* font-family: ALGERIAN; */
+  line-height: 45px;
+  text-align: center;
+}
+.fa-university,.fa-video,.fa-graduation-cap,.fa-medal
+{
+  float: center;
+  color: white;
+}
+.fa { 
+  padding: 0px;
+  margin: 0px;
+  font-size: 35px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  /* margin: 5px 2px; */
+}
+#footer
+{
+  background-color: black;
+  width: 100%;
+  margin-top: 20px;
+  padding: 2em;
+  text-align: center;
+  opacity: 0.8;
+  color: white;
+  line-height: 30px;
+  
+}
+#contactform
+{
+  margin-top: 20px;
+  line-height: 30px;
+}
+.fa-twitter,.fa-facebook,.fa-youtube,.fa-instagram
+{
+  color: white !important;
+  font-size: 22px;
+}
+.fa-phone, .fa-envelope-o, .fa-map-marker
+{
+  color: #0663BB;
+  border: 2px solid #0663BB;
+  padding: 6px;
+  border-radius: 22px;
+}
+#aboutpage
+{
+  margin-top: 80px;
+}
+  
